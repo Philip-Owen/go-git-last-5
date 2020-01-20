@@ -12,7 +12,7 @@ OR
 % ./go-git-last-5 username
 ```
 
-Results:
+Example:
 ```
 % ./go-git-last-5 golang
 ******************************************************************
